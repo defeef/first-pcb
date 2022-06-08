@@ -394,7 +394,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "first-pcb.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
