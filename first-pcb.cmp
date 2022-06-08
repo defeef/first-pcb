@@ -1,0 +1,99 @@
+Cmp-Mod V01 Created by PcbNew   date = 6/8/2022 5:54:02 PM
+
+BeginCmp
+TimeStamp = f14f10b5-0436-4606-81d9-85c36e963c5d
+Path = /229409d0-9935-4be1-a852-23c013d0a939
+Reference = H4;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 3eafeedd-4355-4b8e-91ae-53deeeec01aa
+Path = /85f2e531-45c2-4e3d-a8cf-17b5a7905d98
+Reference = H3;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = e06ffb5e-178b-4784-be7d-ee82a6148a2a
+Path = /d0603c93-1e0d-4f9c-9ae4-7cbc129674aa
+Reference = H2;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b0f4fd5-4dc1-4094-be13-fc65f2329b62
+Path = /e0ef2c2b-7a91-4865-8b62-e21cbba98aaa
+Reference = H1;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = d061349d-a850-4dc5-a5ec-f7c49a3d04b4
+Path = /f45d5ac8-c98a-440b-a210-d962aa35e8d7
+Reference = K1;
+ValeurCmp = my_connector;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b93ac14-c4e4-4dd8-a728-636ba00ea523
+Path = /1c677f58-5448-4a68-a11d-1fe546a15151
+Reference = BT1;
+ValeurCmp = 9V;
+IdModule  = Battery:BatteryHolder_Eagle_12BH611-GR;
+EndCmp
+
+BeginCmp
+TimeStamp = ee0c1ff3-687f-496e-a97c-9f411a616d00
+Path = /6271e8bf-95b7-490e-890e-960e1987dce5
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 2e593baf-d850-4490-aebc-1cc3d950db41
+Path = /dbe9174c-2863-4186-a9c2-25396f412094
+Reference = U1;
+ValeurCmp = LM358;
+IdModule  = Package_DIP:DIP-8_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 72389999-535f-4416-9fd4-4c42a858c412
+Path = /f4fee8a0-63ad-418f-b64f-f9485fbb9211
+Reference = Q1;
+ValeurCmp = BC547;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 0c0a496b-8417-434c-bc12-4ae78fb4465a
+Path = /48a58bb2-2c4c-4c6f-876b-e450774f5b59
+Reference = P1;
+ValeurCmp = 10k;
+IdModule  = Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 61104204-f92a-476f-ad4c-8b02eb120bf7
+Path = /eafa38b4-1aff-42f4-bd91-14552b7af175
+Reference = R2;
+ValeurCmp = 100R;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = a4c4118d-e9c6-451d-b4e0-ec8a647cd98f
+Path = /b35f547c-de94-4d1e-886f-9ccda6d9fc69
+Reference = R1;
+ValeurCmp = 100R;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+EndListe

@@ -1,0 +1,23 @@
+Info: Processing symbol 'BT1:Battery:BatteryHolder_Eagle_12BH611-GR'.
+Info: Processing symbol 'C1:Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'K1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'P1:Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'U1:Package_DIP:DIP-8_W7.62mm'.
+Warning: No net found for symbol K1 pin 3.
+Warning: No net found for symbol K1 pin 3.
+Warning: No net found for symbol P1 pin MP.
+Warning: No net found for symbol P1 pin MP.
+Error: H1 pad 1 not found in MountingHole:MountingHole_3.2mm_M3.
+Error: H2 pad 1 not found in MountingHole:MountingHole_3.2mm_M3.
+Error: H3 pad 1 not found in MountingHole:MountingHole_3.2mm_M3.
+Error: H4 pad 1 not found in MountingHole:MountingHole_3.2mm_M3.
+
+
+Info: Total warnings: 0, errors: 4.
